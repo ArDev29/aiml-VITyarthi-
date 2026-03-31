@@ -57,9 +57,7 @@ pip install pandas
 **Step 1 — Clone or download this repository**
 
 ```bash
-git clone https://github.com/Abhyuday-Pratap-Singh/VityarthiProjectAIML.git
-cd Route-Evaluator
-```
+https://github.com/ArDev29/aiml-VITyarthi-.git
 
 **Step 2 — Install the dependency**
 
